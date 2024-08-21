@@ -12,16 +12,19 @@
 
 ## General Information
 - What is the background of your project?
+  
      Lending Club, a consumer finance company, is the largest online loan marketplace, facilitating various loans such as personal
      loans, business loans, and financing of medical procedures to urban customers. Borrowers can easily access lower interest rate
      loans through it’s fast online platform. Upon receiving a loan application, the company has to make a decision for loan approval
      based on the applicant’s profile.
      
 - What is the business probem that your project is trying to solve?
+  
       Business aims to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the
       loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. to minimize the credit loss.
 
 - What is the dataset that is being used?
+  
       Customer data which contains information about past loan applicants with their default status.
 
 
@@ -47,6 +50,7 @@ On the basis of our analysis following are the potential variables which can pre
 ## Acknowledgements
 Give credit here.
 - This project was inspired by - Upgrad
+  
 Worked by:
 - Varun Gupta
 - Vardaan Thapa
